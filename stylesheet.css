@@ -1,0 +1,36 @@
+nav a {
+	text-decoration: none;
+	color: black;
+	width: 23%;
+	float: left;
+	padding: 12px;
+	text-align: center;
+}
+
+nav {
+	width: 100%;
+	overflow: auto;
+	vertical-align: center;
+}
+
+p {
+	background-image: url(https://emoji.gg/assets/emoji/PogChamp.png);
+	background-size: 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+#homeImage {
+	width: 100%;
+}
+
+#centerText {
+	text-align: center;
+}
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
